@@ -1,0 +1,5 @@
+{
+  "baseline_comparison": {
+    "MLP": {
+      "validation": {
+        "mse": 
